@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/jeremehancock/blue-letter-bible/master/blue-letter-bible-screenshot.png" />
 
-This app will display the Bible Web App from  [Blue Letter Bible](www.blueletterbible.org).
+This app will display the Bible Web App from  [Blue Letter Bible](https://www.blueletterbible.org).
 
 ## Built for UbuntuCE:
 
