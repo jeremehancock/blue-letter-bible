@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/jeremehancock/blue-letter-bible/master/blue-letter-bible.png" height="50" /> NET Bible</h1>
+<h1><img src="https://raw.githubusercontent.com/jeremehancock/blue-letter-bible/master/blue-letter-bible.png" height="50" /> Blue Letter Bible</h1>
 
 <img src="https://raw.githubusercontent.com/jeremehancock/blue-letter-bible/master/blue-letter-bible-screenshot.png" />
 
