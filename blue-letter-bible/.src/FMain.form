@@ -8,6 +8,6 @@
   { BlueLetterBible WebView
     MoveScaled(0,0,150,100)
     Expand = True
-    Url = "https://www.blueletterbible.org/webtools/wapp/index.cfm?Key=BulletinPlus&Lock=Hw7mas7HU2vb97xgGBCT557PP&t=WEB&c=10&b=Mat"
+    Url = "https://www.blueletterbible.org/webtools/wapp/index.cfm?Key=BulletinPlus&Lock=Hw7mas7HU2vb97xgGBCT557PP&t=WEB&b=Mat&c=10"
   }
 }
